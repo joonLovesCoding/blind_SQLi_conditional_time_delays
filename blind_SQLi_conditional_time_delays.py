@@ -5,9 +5,9 @@
 import requests
 
 # Populate environment avariables before running
-URL = "https://ace91fc41e2c351cc02617e6009a0094.web-security-academy.net/"
-SESSION = "SltaZu6dJdGwno6tSwA4zHRpBIyyWHkJ"
-TRACKING_ID = "QHVuryTNJ8HyOx6J"
+URL = ""
+SESSION = ""
+TRACKING_ID = ""
 CHAR_SPACE = ['0','1','2','3','4','5','6','7','8','9','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
 
 
