@@ -4,7 +4,7 @@
 
 import requests
 
-# Populate environment avariables before running
+# Populate environment variables before running
 URL = ""
 SESSION = ""
 TRACKING_ID = ""
